@@ -6,7 +6,6 @@ uvloop
 httptools
 pandas
 inflect
-re
 typing
 nltk
 joblib
