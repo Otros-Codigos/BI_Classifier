@@ -13,3 +13,4 @@ imblearn
 contractions
 numpy
 pathlib
+jinja2
