@@ -13,4 +13,3 @@ imblearn
 contractions
 numpy
 pathlib
-json
