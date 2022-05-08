@@ -5,7 +5,8 @@ sklearn
 uvloop
 httptools
 pandas
-unicodedata
+inflect
+re
 typing
 nltk
 joblib
