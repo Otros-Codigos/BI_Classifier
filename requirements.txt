@@ -5,7 +5,6 @@ sklearn
 uvloop
 httptools
 pandas
-inflect
 unicodedata
 typing
 nltk
