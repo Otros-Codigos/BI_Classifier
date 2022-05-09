@@ -113,6 +113,10 @@ La aplicación en uso se muestra de buena manera en el siguiente video:
 
 *     HOLA
 
+Y se puede contrar en:
+
+*     https://medical-test-bi.herokuapp.com/
+
 Es clave recordar y explicar que con el fin de poder hacer *predict* se debe pasar un archivo **.txt** con el abstracto medico como se muestra en la carpeta **tests**.
 
 El resultado del *predict* es la predicción de cual enfermedad es dicho abstract y se muestra en pantalla. 
